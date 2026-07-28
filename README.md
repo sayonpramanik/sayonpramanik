@@ -50,4 +50,5 @@ I am interested in collaborations involving:
 
 - [LinkedIn](https://www.linkedin.com/in/sayon-pramanik)
 - [ORCID](https://orcid.org/0000-0002-0151-7285)
-- [GitHub](https://github.com/sayonpramanik)
+- [Google Scholar](https://scholar.google.com/citations?user=43trkAEAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Sayon-Pramanik)
